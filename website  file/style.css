@@ -122,7 +122,7 @@ label #sidebar_btn:hover {
     margin-left: 250px;
     background: url(background\ dir.jpg);
     background-size: cover;
-    height: 100vh;
+    height: 200px;
     transition: 0.5s;
 }
 
