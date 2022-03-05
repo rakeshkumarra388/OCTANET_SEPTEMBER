@@ -64,7 +64,7 @@ button {
 
 /*Stying for small screens*/
 
-@media screen and (max-width: 800px) {
+.sign-up-form and (max-width: 800px) {
     .sign-up-form {
         position: fixed;
         z-index: 3;
