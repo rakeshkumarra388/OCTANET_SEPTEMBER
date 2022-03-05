@@ -40,7 +40,6 @@ body {
 }
 
 .headinglogin {
-    color: rgb(0, 0, 0);
     position: absolute;
     top: 0.5%;
     width: 99.8%;
@@ -61,4 +60,16 @@ body {
 button:hover {
     color: rgb(255, 247, 247);
     background-color: yellow;
+}
+
+button {
+    color: #fff;
+    width: 5%;
+    padding: 5px;
+    border-radius: 20px;
+    font-size: 15px;
+    margin: 10px o;
+    border: none;
+    outline: none;
+    cursor: pointer;
 }
