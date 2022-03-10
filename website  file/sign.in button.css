@@ -60,3 +60,20 @@
             background-color: rgb(66, 49, 218);
             margin: 10px;
         }
+        
+        .btm {
+            width: auto;
+            background-color: black;
+            border: 1px solid green;
+            border-radius: 4px;
+            color: red;
+            display: inline-block;
+            font-size: 14px;
+            font-weight: 600;
+            padding: 10px 16px;
+            text-decoration: none;
+        }
+        
+        .btn:hover {
+            text-decoration: underline;
+        }
