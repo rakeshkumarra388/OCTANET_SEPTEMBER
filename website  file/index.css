@@ -58,8 +58,15 @@ body {
 }
 
 button:hover {
-    color: rgb(255, 247, 247);
     background-color: yellow;
+}
+
+a:link {
+    color: red;
+}
+
+a:hover {
+    color: green;
 }
 
 button {
