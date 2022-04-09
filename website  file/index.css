@@ -19,9 +19,10 @@ body {
 }
 
 .heading {
-    color: rgb(51, 255, 0);
+    color: rgb(120, 202, 212);
+    font-display: 10;
     position: absolute;
-    top: 40%;
+    top: 50%;
     width: 100%;
     text-align: center;
     font-size: 3rem;
